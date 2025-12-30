@@ -1,0 +1,33 @@
+header{
+    
+}
+section{
+    background-color: antiquewhite;
+    margin: 30px;
+    height: 150px;
+}
+article{
+ background-color: antiquewhite;
+    margin: 30px;
+    height: 150px;
+}
+footer{
+    background-color: cadetblue;
+    height: 150px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+padding: 20px;
+}
+
+#list ul{
+   display: block;
+    margin-left: 10%;
+}
+#list ul a{
+    border: none;
+    background-color: inherit;
+    gap:0px;
+    line-height: 20px;
+
+}
